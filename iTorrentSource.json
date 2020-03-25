@@ -1,0 +1,40 @@
+{
+  "name": "iTorrent Source",
+  "identifier": "com.rileytestut.AltStore.Demo",
+  "apps": [
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.XITRIX.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "iOS Torrent client App",
+      "version": "1.7.4",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Fixes and UI Improvements",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
+      "localizedDescription": "It is an ordinary torrent client for iOS with Files app support. \n\n What can this app do: \n\n• Download in the background \n\n• Sequential download (use VLC to watch films while loading) \n\n• Add torrent files from Share menu (Safari and other apps) \n\n• Add magnet links directly from Safari \n\n• Store files in Files app (iOS 11+) \n\n• File sharing directly from app \n\n• Download torrent by link \n\n• Download torrent by magnet \n\n• Send notification on torrent downloaded \n\n• FTP Server (unstable) \n\n• Select files to download or not \n\n• Change UI to dark theme",
+      "iconURL": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/a9efbde4-560e-438a-a178-b17563f9c2da?st=2020-03-24T22%3A01%3A17Z&se=2020-04-07T23%3A01%3A17Z&sp=r&sv=2018-03-28&sr=b&sig=bzihCP34O6eEwMqCjTxlN2NkjE5tx3gA9jhNjV8sPrg%3D",
+      "tintColor": "c43a27",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000455-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-2.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "iTorrent now Available",
+      "identifier": "gba4ios-available-download-demo",
+      "caption": "Install iTorrent from the source.",
+      "tintColor": "c43a27",
+      "imageURL": "",
+      "appID": "ru.nonamedude.iTorrent.3JPDFVV6S6",
+      "date": "2020-03-24",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
