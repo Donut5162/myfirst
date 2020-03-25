@@ -12,7 +12,7 @@
       "versionDescription": "Fixes and UI Improvements",
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
       "localizedDescription": "It is an ordinary torrent client for iOS with Files app support. \n\nWhat can this app do: \n\nDownload in the background \n\nSequential download (use VLC to watch films while loading) \n\nAdd torrent files from Share menu (Safari and other apps) \n\nAdd magnet links directly from Safari \n\nStore files in Files app (iOS 11+) \n\nFile sharing directly from app \n\nDownload torrent by link \n\nDownload torrent by magnet \n\nSend notification on torrent downloaded \n\nFTP Server (unstable) \n\nSelect files to download or not \n\nChange UI to dark theme",
-      "iconURL": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/a9efbde4-560e-438a-a178-b17563f9c2da?st=2020-03-24T22%3A01%3A17Z&se=2020-04-07T23%3A01%3A17Z&sp=r&sv=2018-03-28&sr=b&sig=bzihCP34O6eEwMqCjTxlN2NkjE5tx3gA9jhNjV8sPrg%3D",
+      "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
       "tintColor": "c43a27",
       "size": 20132659,
       "screenshotURLs": [
