@@ -1,0 +1,42 @@
+{
+  "name": "Crunchyroll++ Source",
+  "identifier": "com.donut5162.Crunchyroll.Demo",
+  "apps": [
+    {
+      "name": "Crunchyroll++",
+      "bundleIdentifier": "com.crunchyroll.crunchyroll",
+      "developerName": "Laxus",
+      "subtitle": "Tweaked Crunchyroll with no ads.",
+      "version": "3.5",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Initial AltStore release",
+      "downloadURL": "https://app.iosgods.com/store/download-ipa/1529-crunchyroll-modded",
+      "localizedDescription": "Watch anime with no ads.",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/21/df/f721df2e-adf0-759f-d3e2-c52b9295f178/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-85-220.png/246x0w.png",
+      "tintColor": "fa8416",
+      "size": 38273024,
+      "screenshotURLs": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bc/23/e4/bc23e469-2f31-0713-2ee5-3553d31db03d/pr_source.png/300x0w.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/be/fb/fc/befbfc30-1092-00f3-dbfa-7d5f4ef5bfa8/pr_source.png/300x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c1/4d/63/c14d636b-bc30-3dcd-224a-ea4a530a54a0/pr_source.png/300x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/85/ae/5c85aea0-864f-2698-98b7-5c9d97ae69fd/pr_source.png/300x0w.png",
+	"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/af/59/5f/af595fd3-f80f-95dc-47e9-148f203b3740/pr_source.png/300x0w.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Crunchyroll++ Now Available",
+      "identifier": "crunchyroll-available-download",
+      "caption": "Download today from the source.",
+      "tintColor": "fa8416",
+      "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/be/fb/fc/befbfc30-1092-00f3-dbfa-7d5f4ef5bfa8/pr_source.png/300x0w.png",
+      "appID": "com.crunchyroll.crunchyroll",
+      "date": "2020-03-25",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
