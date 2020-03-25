@@ -85,7 +85,7 @@
       "identifier": "extremelandingspro-available-now",
       "caption": "Test your piloting skills.",
       "tintColor": "26229c",
-      "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/53/22/e6/5322e6bc-63e1-ca89-4960-f78139f9da2f/pr_source.png/643x0w.png",
+      "imageURL": "https://raw.githubusercontent.com/Donut5162/myfirst/master/newslandings.png",
       "appID": "it.rortos.extremelandingspro",
       "date": "2020-03-24",
       "notify": false
