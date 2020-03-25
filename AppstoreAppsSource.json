@@ -57,7 +57,22 @@
         "https://raw.githubusercontent.com/Donut5162/myfirst/master/landings2.png",
         "https://raw.githubusercontent.com/Donut5162/myfirst/master/landings3.png"
       ]
-    }
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "com.thatcherdev.flappybird",
+      "developerName": "dotGears,
+      "subtitle": "The Original Flappy Bird.",
+      "version": "1.0",
+      "versionDate": "2019-05-06T14:30:00-07:00",
+      "versionDescription": "Initial Release.",
+      "downloadURL": "https://github.com/ThatcherDev/flappybird/releases/download/1.0.0/FlappyBird_1.0.0.ipa",
+      "localizedDescription": "The original Flappy Bird that was removed from the Appstore.",
+      "iconURL": "https://raw.githubusercontent.com/ThatcherDev/flappybird/master/FlappyBird/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "tintColor": "1fd14f",
+      "size": 13841203,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/ThatcherDev/flappybird/master/demo/demo.gif"
   ],
   "news": [
     {
@@ -87,6 +102,16 @@
       "tintColor": "26229c",
       "imageURL": "https://raw.githubusercontent.com/Donut5162/myfirst/master/newslandings.png",
       "appID": "it.rortos.extremelandingspro",
+      "date": "2020-03-24",
+      "notify": false
+    },
+    {
+      "title": "Flappy Bird Now Available",
+      "identifier": "flappybird-available-now",
+      "caption": "Install it with the source.",
+      "tintColor": "1fd14f",
+      "imageURL": "https://raw.githubusercontent.com/ThatcherDev/flappybird/master/demo/demo.gif",
+      "appID": "com.thatcherdev.flappybird",
       "date": "2020-03-24",
       "notify": false
     }
