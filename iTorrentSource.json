@@ -1,6 +1,6 @@
 {
   "name": "iTorrent Source",
-  "identifier": "com.rileytestut.AltStore.Demo",
+  "identifier": "com.donut5162.iTorrent.Source",
   "apps": [
     {
       "name": "iTorrent",
