@@ -7,7 +7,7 @@
       "bundleIdentifier": "com.bittorrent.torrent",
       "developerName": "XITRIX",
       "subtitle": "iOS torrent client app",
-      "version": "1.7.4",
+      "version": "1.7.4.1",
       "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "Fixes and UI Improvements",
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
