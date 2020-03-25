@@ -6,7 +6,7 @@
       "name": "iTorrent",
       "bundleIdentifier": "com.XITRIX.iTorrent",
       "developerName": "XITRIX",
-      "subtitle": "iOS Torrent client App",
+      "subtitle": "iOS torrent client app",
       "version": "1.7.4",
       "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "Fixes and UI Improvements",
@@ -25,11 +25,11 @@
   "news": [
     {
       "title": "iTorrent now Available",
-      "identifier": "gba4ios-available-download-demo",
+      "identifier": "itorrent-available-download-demo",
       "caption": "Install iTorrent from the source.",
       "tintColor": "c43a27",
       "imageURL": "",
-      "appID": "ru.nonamedude.iTorrent.3JPDFVV6S6",
+      "appID": "com.Donut5162.iTorrent",
       "date": "2020-03-24",
       "notify": false
     }
