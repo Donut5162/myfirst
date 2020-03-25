@@ -4,10 +4,10 @@
   "apps": [
     {
       "name": "iTorrent",
-      "bundleIdentifier": "com.XITRIX.iTorrent",
+      "bundleIdentifier": "com.bittorrent.torrent",
       "developerName": "XITRIX",
       "subtitle": "iOS torrent client app",
-      "version": "13.2",
+      "version": "1.0",
       "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "Fixes and UI Improvements",
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
@@ -30,7 +30,7 @@
       "caption": "Install iTorrent from the source.",
       "tintColor": "a1261b",
       "imageURL": "https://raw.githubusercontent.com/Donut5162/myfirst/master/newsimage2.png",
-      "appID": "com.XITRIX.iTorrent",
+      "appID": "com.bittorrent.torrent",
       "date": "2020-03-24",
       "notify": false
     }
