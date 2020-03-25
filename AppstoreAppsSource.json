@@ -41,7 +41,7 @@
     },
     {
       "name": "Extreme Landings Pro",
-      "bundleIdentifier": "it.rortos.extremelandingspro",
+      "bundleIdentifier": "com.rortos.extremelandingspro",
       "developerName": "RORTOS SRL",
       "subtitle": "Take full control.",
       "version": "3.6.8.01",
@@ -104,7 +104,7 @@
       "caption": "Test your piloting skills.",
       "tintColor": "26229c",
       "imageURL": "https://raw.githubusercontent.com/Donut5162/myfirst/master/newslandings.png",
-      "appID": "it.rortos.extremelandingspro",
+      "appID": "com.rortos.extremelandingspro",
       "date": "2020-03-24",
       "notify": false
     },
