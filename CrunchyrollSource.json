@@ -30,7 +30,7 @@
       "identifier": "crunchyroll-available-download",
       "caption": "Download today from the source.",
       "tintColor": "fa8416",
-      "imageURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/be/fb/fc/befbfc30-1092-00f3-dbfa-7d5f4ef5bfa8/pr_source.png/300x0w.png",
+      "imageURL": "https://shortyawards.imgix.net/entries/11th/acdebb7d-993b-4f66-8fba-cf29ed83461b.png?auto=format&fit=crop&h=300&q=65&w=500&s=9c87124a5a9e952c9423a47365624f5b",
       "appID": "com.crunchyroll.crunchyroll",
       "date": "2020-03-25",
       "notify": false
