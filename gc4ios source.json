@@ -1,0 +1,27 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kabiroberai.GC4iOS",
+      "developerName": "Unknown",
+      "downloadURL": "https://github.com/Donut5162/myfirst/raw/master/GC4iOS%20v0.13.ipa",
+      "iconURL": "https://emus4udownload.org/wp-content/uploads/2020/02/gc4ios-120x120.png",
+      "localizedDescription": "A simple GameCube Emulator.",
+      "name": "GC4iOS",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Donut5162/myfirst/master/gc1.png",
+        "https://raw.githubusercontent.com/Donut5162/myfirst/master/gc2.png"
+      ],
+      "size": 2610000,
+      "subtitle": "A GameCube Emulator.",
+      "tintColor": "6032a8",
+      "version": "0.13",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Altstore release."
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Source Name",
+  "news": [],
+  "userInfo": {}
+}
