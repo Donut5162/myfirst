@@ -4,8 +4,7 @@
   "apps": [
     {
       "name": "Crunchyroll++",
-      "bundleIdentifier": "com.crunchyroll.crunchyroll",
-      "developerName": "Laxus",
+      "bundleIdentifier": "com.crunchyroll.crunchyroll"
       "subtitle": "Tweaked Crunchyroll with no ads.",
       "version": "3.6.1",
       "versionDate": "2020-03-24T14:30:00-07:00",
