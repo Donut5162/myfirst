@@ -1,6 +1,6 @@
 {
   "name": "Delta Beta Source",
-  "identifier": "com.delta.beta",
+  "identifier": "com.donut5162.delta",
   "apps": [
     {
       "beta": true,
