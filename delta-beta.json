@@ -15,7 +15,7 @@
       "size": 16800000,
       "subtitle": "The Delta Emulator Beta.",
       "tintColor": "490e96",
-      "version": "1.2a2",
+      "version": "1.2b",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "FEATURES \n• Option to switch between melonDS and DeSmuME cores \n• Manage individual core settings from Delta settings (DS cores only currently) \n• \"Home Screen\" DS game to open DS main menu (melonDS core only)\n• UI flow for importing melonDS BIOS • View Delta's documents directory in Files \n• Support for fast forwarding DS games\n• Support for Action Replay cheat codes for DS games (melonDS core only) \n• Support for 8 character Game Genie cheat codes for NES games \n\nBUG FIXES \n• Fixes errors when saving in some DS games \n• Fixes incorrect formatting when typing cheats \n• Fixes emulation freezing when melonDS core restarts "
     }
