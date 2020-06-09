@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Crunchyroll++",
-      "bundleIdentifier": "com.crunchyroll.crunchyroll",
+      "bundleIdentifier": "com.crunchyroll.iphone",
       "subtitle": "Tweaked Crunchyroll with no ads.",
       "version": "3.6.1",
       "developerName": " ",
